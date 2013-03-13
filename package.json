@@ -1,0 +1,21 @@
+{
+  "name": "damnedapp",
+  "version": "0.0.0",
+  "description": "Just give me a damned app.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deoxxa/damnedapp.git"
+  },
+  "keywords": [
+    "http",
+    "app",
+    "route",
+    "json"
+  ],
+  "author": "Conrad Pankoff <deoxxa@fknsrs.biz> (http://www.fknsrs.biz/)",
+  "license": "BSD",
+  "dependencies": {
+    "houkou": "~0.2.1"
+  }
+}
